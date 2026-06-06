@@ -1,0 +1,6 @@
+{
+  "name": "Nexform Agency Hub",
+  "description": "Professional operations center for Nexform Agency to manage staff performance, track client project deadlines, capture outbound DMs, and automate daily task tracking and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
